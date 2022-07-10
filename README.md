@@ -22,6 +22,7 @@ A "game over" message is displayed in the middle of the screen.
 The cycles turn white.
 Players keep moving and turning but don't run into each other.
 
-Required Technologies
+# Required Technologies
+
 Python 3.8.0
 Raylib Python CFFI 3.7
