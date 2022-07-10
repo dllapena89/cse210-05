@@ -1,3 +1,5 @@
+# cse210-05
+
 Cycle
 
 Disclamer: This game's code was created with the aspect of the game Snake, which was an example used for the purpose of teaching. For the full code of the Snake game, go to https://github.com/dllapena89/snake/tree/main/snake/snake-complete. Small alterations are made, but the ideas are the same.
@@ -20,6 +22,7 @@ A "game over" message is displayed in the middle of the screen.
 The cycles turn white.
 Players keep moving and turning but don't run into each other.
 
-Required Technologies
+# Required Technologies
+
 Python 3.8.0
 Raylib Python CFFI 3.7
